@@ -32,6 +32,8 @@ namespace RITAGITHUBLABA5
                 }
                 void GetB()
                 {
+                    Console.Write("Введите значение для В: ");
+                    B = Convert.ToDouble(Console.ReadLine());
                 }
                 void Add()
                 {

@@ -41,6 +41,7 @@ namespace RITAGITHUBLABA5
                 }
                 void Mul()
                 {
+                    Console.WriteLine("Ответ: " + (A * B));
                 }
                 void Div()
                 {

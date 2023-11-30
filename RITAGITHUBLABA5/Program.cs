@@ -43,6 +43,7 @@ namespace RITAGITHUBLABA5
                 }
                 void Sub()
                 {
+                    Console.WriteLine("Ответ: " + (A - B));
                 }
                 void Mul()
                 {

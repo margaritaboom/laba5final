@@ -35,6 +35,7 @@ namespace RITAGITHUBLABA5
                 }
                 void Add()
                 {
+                    Console.WriteLine("Ответ: " + (A + B));
                 }
                 void Sub()
                 {

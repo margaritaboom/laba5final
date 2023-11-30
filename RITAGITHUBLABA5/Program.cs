@@ -51,6 +51,14 @@ namespace RITAGITHUBLABA5
                 }
                 void Div()
                 {
+                    if (B != 0)
+                    {
+                        Console.WriteLine("Ответ: " + (A / B));
+                    }
+                    else
+                    {
+                        Console.WriteLine("Ошибка: деление на ноль!");
+                    }
                 }
 
                 switch (x)
